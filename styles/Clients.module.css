@@ -1,0 +1,10 @@
+.clients{
+    align-items: center;
+    display: flex;
+    
+}
+
+.card-img-top{
+    width: 80px;
+    height: 80px;
+}
